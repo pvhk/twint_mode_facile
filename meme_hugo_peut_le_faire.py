@@ -1,6 +1,10 @@
 import twint
 import json
-
+"""
+Pour lancer une récolte : changer le keyword
+lancer la commande sur son terminal (dans le dossier du code) : python3 meme_hugo_peut_le_faire.py
+Dans le dossier, un fichier json apparait :)
+"""
 KEYWORD = '"poêle à granulés"'
 FILE_NAME = KEYWORD + ".json"
 def load_json(path):
