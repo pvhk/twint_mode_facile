@@ -1,6 +1,7 @@
 import twint
 import json
 """
+INSTALLER TWINT : pip3 install twint
 Pour lancer une récolte : changer le keyword
 lancer la commande sur son terminal (dans le dossier du code) : python3 meme_hugo_peut_le_faire.py
 Dans le dossier, un fichier json apparait :)
